@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "40231509956",
+    "project_id": "fetoapp",
+    "storage_bucket": "fetoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40231509956:android:8968fb6a8432d0fee38e91",
+        "android_client_info": {
+          "package_name": "com.example.fetoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBALF3YmobqFoL_CeHvaHWuOHSwW5efmjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

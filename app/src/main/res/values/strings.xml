@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FetoApp</string>
+    <string name="dev">Developed by Navindu Kavishka</string>
+    <string name="loginBanner">Login to your account</string>
+    <string name="emailLbl">Email</string>
+    <string name="passwordLbl">Password</string>
+    <string name="loginBtn">Login</string>
+    <string name="newAccLink">Create a new account</string>
+    <string name="nameLbl">Name</string>
+    <string name="registerBtn">Register</string>
+    <string name="signInLink">Already got an account? Sign In</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
